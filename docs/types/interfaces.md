@@ -16,7 +16,7 @@ interface Point {
 declare var myPoint: Point
 ```
 
-**Sample B**의 장점응ㄴ 누군가가 `myPoint` 라이브러리에 빌드 된 라이브러리를 작성하여 새 멤버를 추가한다는 것입니다. 기존의 `myPoint` 선언에 쉽게 추가 할 수 있습니다.
+**Sample B**의 장점은 누군가가 `myPoint` 라이브러리에 빌드 된 라이브러리를 작성하여 새 멤버를 추가한다는 것입니다. 기존의 `myPoint` 선언에 쉽게 추가 할 수 있습니다.
 
 ```ts
 // Lib a.d.ts
